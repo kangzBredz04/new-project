@@ -1,0 +1,28 @@
+bikin reposetory
+1. new repository 
+git init
+
+1. git config --list
+2.mengatur nama pengguna
+git config --global user.name ""
+ git config --global user.email ""
+
+3. bikin branch baru
+git branch -M (nama branch)
+
+4. Mengecek branch
+
+5. Push file
+git add . {untuk semua file}
+git add (nama file) {satu persatu}
+git commit -m "keterangan bebas"
+
+git commit -am "keterangan bebas"
+
+git push -u origin (nama branch)
+6. clone project
+git clone (url project)
+
+7. remote git remote origin alamat gitlab
+
+8. cek remote -v {tampil alamat}
